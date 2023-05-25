@@ -46,7 +46,7 @@ def checkin(cookie: Dict[str, str]) -> None:
         elif checkin_result['code'] == 1:
             message = checkin_result['message']
             notify.send(
-                f'glados已签到:{message}',
+                f'glados已签到: {message}',
                 f"账号{email}, 剩余时长{left_days}天",
             )
         else:
