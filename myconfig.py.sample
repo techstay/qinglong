@@ -1,0 +1,9 @@
+# 配置文件
+
+# glados签到，将自己的cookie添加到这里，如果有多账户的话，就多添加多组cookie
+GLADOS_COOKIES = [
+    {
+        'koa:sess': '',
+        'koa:sess.sig': '',
+    },
+]
