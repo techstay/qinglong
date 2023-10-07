@@ -7,3 +7,6 @@ GLADOS_COOKIES = [
         'koa:sess.sig': '',
     },
 ]
+
+# sockboom签到，将key写到这里
+SOCKBOOM_KEY = ""

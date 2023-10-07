@@ -3,6 +3,7 @@
 自用青龙脚本仓库，包含了一些自己平时在用的脚本，使用详情参见各脚本注释。
 
 - `glados_checkin`，glados 签到脚本，使用前需要在配置文件中添加自己的 cookie。
+- `sockboom_checkin`，sockboom 签到脚本，使用之前需要设置 API key
 
 ## 开始使用
 
